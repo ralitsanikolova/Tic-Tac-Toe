@@ -36,7 +36,6 @@
 					break;
 				}
 			}
-
 			return boardFull ? GameState.Draw : GameState.StillPlaying;
 		}
 	}
